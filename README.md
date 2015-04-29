@@ -1,5 +1,5 @@
 # whoami-php
-A simple container show its IP and Host
+A simple whoami container with php
 
 Such as
 
